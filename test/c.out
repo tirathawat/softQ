@@ -1,0 +1,18 @@
+mode: set
+github.com/tirathawat/softQ/pkg/sum/sum.go:3.25,5.23 2 1
+github.com/tirathawat/softQ/pkg/sum/sum.go:8.2,8.14 1 1
+github.com/tirathawat/softQ/pkg/sum/sum.go:5.23,7.3 1 1
+github.com/tirathawat/softQ/pkg/ticket/ticket.go:3.33,4.14 1 1
+github.com/tirathawat/softQ/pkg/ticket/ticket.go:8.2,8.15 1 1
+github.com/tirathawat/softQ/pkg/ticket/ticket.go:12.2,12.15 1 1
+github.com/tirathawat/softQ/pkg/ticket/ticket.go:16.2,16.10 1 1
+github.com/tirathawat/softQ/pkg/ticket/ticket.go:4.14,6.3 1 1
+github.com/tirathawat/softQ/pkg/ticket/ticket.go:8.15,10.3 1 1
+github.com/tirathawat/softQ/pkg/ticket/ticket.go:12.15,14.3 1 1
+github.com/tirathawat/softQ/pkg/http/http.go:15.46,17.16 2 1
+github.com/tirathawat/softQ/pkg/http/http.go:21.2,22.16 2 1
+github.com/tirathawat/softQ/pkg/http/http.go:26.2,27.55 2 1
+github.com/tirathawat/softQ/pkg/http/http.go:31.2,31.23 1 1
+github.com/tirathawat/softQ/pkg/http/http.go:17.16,19.3 1 0
+github.com/tirathawat/softQ/pkg/http/http.go:22.16,24.3 1 0
+github.com/tirathawat/softQ/pkg/http/http.go:27.55,29.3 1 0
